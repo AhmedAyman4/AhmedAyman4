@@ -1,4 +1,5 @@
-![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/f2545443-e5b8-4120-a02d-8f09aa43904f)
+![Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner](https://github.com/user-attachments/assets/8d725678-755d-411a-997b-2902e73f16f6)
+
 
 
 # 💫 About Me:
