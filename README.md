@@ -1,7 +1,7 @@
 <img src="Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner.png" alt="GitHub Banner" width="100%" />
 
 
-# Hello World!, I'm Ahmed, An Aspiring Data Scientist 👋🏼::
+# Hello World!, I'm Ahmed, An Aspiring Data Scientist 👋🏼:
 Ahmed Ayman Alhofy<br>Aspiring Data Scientist<br>BSc Student in Information Systems, Faculty of Computers and Artificial Intelligence, University of Sadat City
 
 
