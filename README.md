@@ -1,3 +1,6 @@
+![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/f2545443-e5b8-4120-a02d-8f09aa43904f)
+
+
 # 💫 About Me:
 Ahmed Ayman Alhofy<br>Aspiring Data Scientist<br>BSc Student in Information Systems, Faculty of Computers and Artificial Intelligence, University of Sadat City
 
