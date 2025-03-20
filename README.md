@@ -1,5 +1,4 @@
-![Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner](https://github.com/user-attachments/assets/8d725678-755d-411a-997b-2902e73f16f6)
-
+<img src="Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner.png" alt="GitHub Banner" width="100%" />
 
 
 # 💫 About Me:
