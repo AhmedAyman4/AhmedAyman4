@@ -23,4 +23,8 @@ Ahmed Ayman Alhofy<br>Aspiring Data Scientist<br>BSc Student in Information Syst
   <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedAyman4/AhmedAyman4/output/github-snake.svg" />
 </picture>
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=AhmedAyman4&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAyman4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
