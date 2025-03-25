@@ -2,7 +2,8 @@
 
 
 # Hello World!, I'm Ahmed, An Aspiring Data Scientist 👋🏼:
-Ahmed Ayman Alhofy<br>Aspiring Data Scientist<br>BSc Student in Information Systems, Faculty of Computers and Artificial Intelligence, University of Sadat City
+
+Ahmed Ayman is an aspiring Data Scientist and Machine Learning Engineer currently pursuing a Bachelor's degree in Information Systems at the University of Sadat City. With strong skills in Python, data analysis, and machine learning technologies, he has experience in building predictive models, conducting data-driven research, and developing innovative AI solutions. Ahmed is passionate about leveraging data science and artificial intelligence to solve complex problems.
 
 
 ## 🌐 Socials:
