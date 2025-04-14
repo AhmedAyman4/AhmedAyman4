@@ -1,9 +1,9 @@
 <img src="Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner.png" alt="GitHub Banner" width="100%" />
 
 
-# Hello World!, I'm Ahmed, An Aspiring Data Scientist 👋🏼:
+# Hello World!, I'm Ahmed, an Aspiring Data Scientist 👋🏼:
 
-Ahmed Ayman is an aspiring Data Scientist and Machine Learning Engineer currently pursuing a Bachelor's degree in Information Systems at the University of Sadat City. With strong skills in Python, data analysis, and machine learning technologies, he has experience in building predictive models, conducting data-driven research, and developing innovative AI solutions. Ahmed is passionate about leveraging data science and artificial intelligence to solve complex problems.
+Aspiring Data Scientist & IS student at Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
 
 
 ## 🌐 Socials:
