@@ -1,7 +1,7 @@
 <img src="Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner.png" alt="GitHub Banner" width="100%" />
 
 
-# Hello World!, I'm Ahmed, an Aspiring Data Scientist 👋🏼:
+# Hello World!, I'm Ahmed 👋🏼:
 
 Aspiring Data & Machine Learning Scientist and Information Systems student at the Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
 
