@@ -3,7 +3,7 @@
 
 # Hello World!, I'm Ahmed, an Aspiring Data Scientist 👋🏼:
 
-Aspiring Data Scientist & IS student at Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
+Aspiring Data & Machine Learning Scientist and Information Systems student at the Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
 
 
 ## 🌐 Socials:
