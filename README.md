@@ -1,4 +1,5 @@
-<img src="Blue Monotone Minimalist ConflictDisplacement Crisis Hub Linkedin Banner.png" alt="GitHub Banner" width="100%" />
+![Ahmed Ayman Blue Monotone Minimalist Linkedin Banner](https://github.com/user-attachments/assets/aeeed160-3792-4a07-ae62-c7b45cadfcc6)
+
 
 
 # Hello World!, I'm Ahmed 👋🏼:
