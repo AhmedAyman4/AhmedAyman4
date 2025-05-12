@@ -2,7 +2,7 @@
 
 
 
-# Hello World!, I'm Ahmed 👋🏼:
+# Hello World!, I'm Ahmed Ayman👋🏼:
 
 Aspiring Data & Machine Learning Scientist and Information Systems student at the Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
 
