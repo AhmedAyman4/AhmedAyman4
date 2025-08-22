@@ -3,9 +3,9 @@
 ![Typing Coding GIF by Sugartown](https://github.com/user-attachments/assets/ddb445d0-edfe-429c-9597-a26371a5f6a4)
 
 
-# Hello World!, I'm Ahmed Ayman👋🏼:
+# Hi there! I'm Ahmed Ayman   
 
-Aspiring Data & Machine Learning Scientist and Information Systems student at the Faculty of Computers & AI, University of Sadat City. Passionate about solving real-world problems with data and exploring AI.
+I'm an aspiring Data & Machine Learning Scientist, currently studying Information Systems at the Faculty of Computers & Artificial Intelligence, University of Sadat City. Passionate about using data to solve everyday challenges and applying AI to create practical, impactful solutions.
 
 
 ## 🌐 Socials:
