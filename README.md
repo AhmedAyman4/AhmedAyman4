@@ -1,6 +1,5 @@
 
-
-![Typing Coding GIF by Sugartown](https://github.com/user-attachments/assets/ddb445d0-edfe-429c-9597-a26371a5f6a4)
+<img src="https://github.com/user-attachments/assets/ddb445d0-edfe-429c-9597-a26371a5f6a4" alt="Typing Coding GIF" width="100%" />
 
 
 # Hi there! I'm Ahmed Ayman   
