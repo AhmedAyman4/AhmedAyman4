@@ -1,5 +1,6 @@
-![Ahmed Ayman Blue Monotone Minimalist Linkedin Banner](https://github.com/user-attachments/assets/aeeed160-3792-4a07-ae62-c7b45cadfcc6)
 
+
+![Typing Coding GIF by Sugartown](https://github.com/user-attachments/assets/ddb445d0-edfe-429c-9597-a26371a5f6a4)
 
 
 # Hello World!, I'm Ahmed Ayman👋🏼:
