@@ -1,4 +1,3 @@
-
 <img src="https://github.com/user-attachments/assets/ddb445d0-edfe-429c-9597-a26371a5f6a4" alt="Typing Coding GIF" width="100%" />
 
 
@@ -7,8 +6,12 @@
 I'm an aspiring Data & Machine Learning Scientist, currently studying Information Systems at the Faculty of Computers & Artificial Intelligence, University of Sadat City. Passionate about using data to solve everyday challenges and applying AI to create practical, impactful solutions.
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedhofi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedhofi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-alhofy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedalhofy42@gmail.com) 
+
+<!-- Profile Views Count -->
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedAyman4&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 ## 💻 Tech Stack:
