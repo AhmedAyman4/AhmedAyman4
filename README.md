@@ -3,7 +3,8 @@
 
 # Hi there! I'm Ahmed Ayman   
 
-I'm an aspiring Data & Machine Learning Scientist, currently studying Information Systems at the Faculty of Computers & Artificial Intelligence, University of Sadat City. Passionate about using data to solve everyday challenges and applying AI to create practical, impactful solutions.
+Data Science & AI Engineer with a background in Information Systems at the Faculty of Computers & Artificial Intelligence, University of Sadat City, specializing in RAG, NLP, and data automation. Experienced in building end-to-end AI agents and predictive models that solve real-world problems. Passionate about bridging the gap between raw data and impactful AI-driven products.
+
 
 
 
